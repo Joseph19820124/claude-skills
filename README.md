@@ -12,6 +12,7 @@ My custom skills for [Claude Code](https://claude.ai/code).
 | `comeon` | 为视频创作提供选题思路 |
 | `conv2md` | Convert conversation to Markdown |
 | `domain-name-brainstormer` | Generate creative domain name ideas |
+| `update-cc` | 更新 Claude Code 到最新版本并显示版本差异 |
 
 ## Installation
 
